@@ -16,8 +16,6 @@ class SpringBootAsyncApplicationTests {
 	public void testAsync() {
 
 		asyncService.doTask();
-		asyncService.doTask();
-		asyncService.doTask();
 
 	}
 
